@@ -21,7 +21,8 @@ makeCacheMatrix <- function( m = matrix() ) {
 
     ## Method the get the matrix
     get <- function() {
-    	## Return the matrix
+    	
+	## Return the matrix
     	m
     }
 
